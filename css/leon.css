@@ -360,7 +360,7 @@ body {
   -moz-transition: var(--main-duration);
   -ms-transition: var(--main-duration);
   -o-transition: var(--main-duration);
-  box-shadow: 0px 0px 18px -3px #666;
+  
 }
 .portfolio .portfolio-content .card:hover {
   transform: translate(0, -10px);
@@ -368,6 +368,7 @@ body {
   -moz-transform: translate(0, -10px);
   -ms-transform: translate(0, -10px);
   -o-transform: translate(0, -10px);
+  box-shadow: 0px 0px 18px -11px #666;
 }
 
 .portfolio .portfolio-content .card img {
