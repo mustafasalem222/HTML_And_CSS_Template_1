@@ -7,10 +7,13 @@
 }
 
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: "Work Sans", serif;
-  
+  scroll-behavior: smooth;
 }
 
 .container {
